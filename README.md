@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
