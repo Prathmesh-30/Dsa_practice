@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +47,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
