@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
