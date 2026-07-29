@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0485-max-consecutive-ones) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
