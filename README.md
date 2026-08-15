@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0073-set-matrix-zeroes) |
+| [0383-ransom-note](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -143,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
