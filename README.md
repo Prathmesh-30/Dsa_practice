@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0409-longest-palindrome) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0409-longest-palindrome) |
@@ -163,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
