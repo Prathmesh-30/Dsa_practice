@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
@@ -168,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
