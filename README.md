@@ -185,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
