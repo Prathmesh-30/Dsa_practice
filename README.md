@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -193,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0175-combine-two-tables) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
