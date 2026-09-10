@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0875-koko-eating-bananas) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1189-maximum-number-of-balloons) |
@@ -214,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
