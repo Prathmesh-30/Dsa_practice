@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1903-largest-odd-number-in-string) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1189-maximum-number-of-balloons) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0901-online-stock-span) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0901-online-stock-span) |
