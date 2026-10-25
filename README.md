@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0237-delete-node-in-a-linked-list) |
 ## String
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
