@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0496-next-greater-element-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prathmesh-30/Dsa_practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -337,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
