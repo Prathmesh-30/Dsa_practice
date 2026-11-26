@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0283-move-zeroes) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0409-longest-palindrome) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -369,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0455-assign-cookies) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prathmesh-30/Dsa_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
